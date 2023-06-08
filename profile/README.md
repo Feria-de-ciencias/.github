@@ -2,6 +2,10 @@
 <p>
   <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenidos+a+nuestra+Organizacion+en+GitHub!;Somos+feria+de+ciencias;" /></a>
 </p>
+<img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/LOGO%20FC-1.png" alt="banner"/>
+
+Grupo de divulgación científica🔭🔬
+
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/WhatsApp%20Image%202023-05-29%20at%207.25.19%20AM.jpeg" alt="banner"/>
 
 
