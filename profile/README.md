@@ -61,7 +61,7 @@
 <!---
 ## About Me
 - 👀 Interesados en la divulgacion de la ciencia
-- 🌱 I’m currently learning Machine Learning and Data Science using python
+- 🌱 I’m currently
 - 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: horacio.araiza.gonzalez@gmail.com
+- 📫 How to reach me: 
 - >
