@@ -5,7 +5,7 @@
 <p>
 Grupo de divulgación científica 🔭🔬
 </p>
-<img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/LOGO%20FC-1.png" alt="banner"/>
+<img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/Screenshot%20from%202023-06-08%2002-21-08.png" alt="banner"/>
 
 
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/WhatsApp%20Image%202023-05-29%20at%207.25.19%20AM.jpeg" alt="banner"/>
