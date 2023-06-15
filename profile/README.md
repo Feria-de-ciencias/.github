@@ -10,6 +10,16 @@ Grupo de divulgación científica 🔭🔬
 
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/WhatsApp%20Image%202023-05-29%20at%207.25.19%20AM.jpeg" alt="banner"/>
 
+# Comunidad Feria de Ciencias
+
+¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Feria de Ciencias.
+
+## Sobre Feria de Ciencias
+Feria de ciencias es una comunidad abierta que divulga ciencia para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
+
+Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
+
+
 
 
 <p align ="center">
@@ -64,16 +74,6 @@ Grupo de divulgación científica 🔭🔬
 
 ------
 ![](https://hit.yhype.me/github/profile?user_id=101701760)
-
-
-# Comunidad Feria de Ciencias
-
-¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Feria de Ciencias.
-
-## Sobre Feria de Ciencias
-Feria de ciencias es una comunidad abierta que divulga ciencia para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
-
-Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
 
 
 <!---
