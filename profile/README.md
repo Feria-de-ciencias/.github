@@ -18,10 +18,9 @@ Grupo de divulgación científica 🔭🔬
 
 Es una forma para interesar a público de todas las edades en las matemáticas y las ciencias. Estamos en una batalla contra los estigmas y la vision de la ciencia y la matemática como algo difícil o enfadoso, poco accesible y que requiere de una inteligencia que "no todos tienen". Para nuestro grupo la divulgación es una herramienta que, además de enseñar de una forma más dinámica, crea un espacio libre de estres; donde lo importante es el fomento de la curiosidad humana.
 
-¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Feria de Ciencias.
-
 ## Sobre Feria de Ciencias
-Feria de ciencias es una comunidad abierta que divulga ciencia para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
+
+Como asociación somos un grupo relativamente nuevo. Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia. Todo esto con el fin de lograr nuestra misión como grupo: Generar curiosidad para un aprendizaje de la ciencia más dinámica
 
 Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
 
