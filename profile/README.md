@@ -10,21 +10,25 @@ Grupo de divulgación científica 🔭🔬
 
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/WhatsApp%20Image%202023-05-29%20at%207.25.19%20AM.jpeg" alt="banner"/>
 
-# Comunidad Feria de Ciencias
+### 🎯 Objetivos
 
-¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Feria de Ciencias. 
+> Como asociación somos un grupo relativamente nuevo. Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia. Todo esto con el fin de lograr nuestra misión como grupo: Generar curiosidad para un aprendizaje de la ciencia más dinámica
 
-# Para su grupo ¿Qué es la divulgación científica:
+> Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
 
-Es una forma para interesar a público de todas las edades en las matemáticas y las ciencias. Estamos en una batalla contra los estigmas y la vision de la ciencia y la matemática como algo difícil o enfadoso, poco accesible y que requiere de una inteligencia que "no todos tienen". Para nuestro grupo la divulgación es una herramienta que, además de enseñar de una forma más dinámica, crea un espacio libre de estres; donde lo importante es el fomento de la curiosidad humana.
 
-## Sobre Feria de Ciencias
+### 🌱 Contexto
 
 Como asociación somos un grupo relativamente nuevo. Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia. Todo esto con el fin de lograr nuestra misión como grupo: Generar curiosidad para un aprendizaje de la ciencia más dinámica
 
 Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
 
 
+
+
+# Para su grupo ¿Qué es la divulgación científica:
+
+Es una forma para interesar a público de todas las edades en las matemáticas y las ciencias. Estamos en una batalla contra los estigmas y la vision de la ciencia y la matemática como algo difícil o enfadoso, poco accesible y que requiere de una inteligencia que "no todos tienen". Para nuestro grupo la divulgación es una herramienta que, además de enseñar de una forma más dinámica, crea un espacio libre de estres; donde lo importante es el fomento de la curiosidad humana.
 
 <p align ="center">
   <a  href="https://clubdeciencias.vercel.app/" target="_blank">
@@ -53,6 +57,34 @@ Colaboramos con personas de todos los perfiles: activistas, periodistas, funcion
 </p>
 
 
+
+### 🤝 Colaboración
+
+1. La incorporación de nuevos colaboradores a esta organización deberá
+   ser acordada por consenso de los colaboradores actuales.
+2. Todo miembro de esta organización deberá tener acceso de lectura y
+   escritura de todos los repositorios públicos y privados.
+3. Todo software desarrollado en esta organización deberá tener una
+   [licencia](https://gplv3.fsf.org/wiki/index.php/Compatible_licenses)
+   de [software libre](https://www.gnu.org/philosophy/free-sw.es.html).
+4. La rama principal de todos los repositorios será llamada `main` y
+   estará protegida para que se requiera
+   - Una solicitud de incorporación de cambios (pull request) desde
+     una rama no protegida para la modificación de la rama principal.
+   - Todas las pruebas automáticas son exitosas previo a incorporar
+     cambios.
+   - Todas las conversaciones de revisión tengan resolución previo a
+     incorporar cambios.
+5. Para incorporar cambios a la rama principal se deberá crear una
+   rama secondaria, realizar los cambios en ella y crear una solicitud
+   de incorporación de cambios (pull request) hacia la rama principal
+   asignando un propietario de código del repositorio (especificados
+   en archivo `CODEOWNERS`) como revisor de la solicitud.
+6. Previo a desplegar las componentes del software desarrollado en
+   esta organización los repositorios relevantes deben ser etiquetados
+   siguiendo las convenciones de [versionado
+   semántico](https://semver.org/) con el nombre de la etiqueta
+   prefijada con la letra `v`.
 
 
 <!--
