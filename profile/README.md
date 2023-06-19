@@ -7,24 +7,19 @@ Grupo de divulgación científica 🔭🔬
 </p>
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/Screenshot%20from%202023-06-08%2002-21-08.png" alt="banner"/>
 
-
 <img src="https://github.com/Feria-de-ciencias/.github/blob/main/profile/WhatsApp%20Image%202023-05-29%20at%207.25.19%20AM.jpeg" alt="banner"/>
 
 ### 🎯 Objetivos
 
-> Como asociación somos un grupo relativamente nuevo. Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia. Todo esto con el fin de lograr nuestra misión como grupo: Generar curiosidad para un aprendizaje de la ciencia más dinámica
-
-> Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
-
+> Generar curiosidad para un aprendizaje de la ciencia más dinámica.
 
 ### 🌱 Contexto
 
-Como asociación somos un grupo relativamente nuevo. Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia. Todo esto con el fin de lograr nuestra misión como grupo: Generar curiosidad para un aprendizaje de la ciencia más dinámica
+Nuestro interes es exponer nuestra metodología a través del " proyecto" presentado con el fin de obtener retroalimentacion de otros grupos de Divulgación con experiencia más amplia.
 
-Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencias.
+Una maxima rumbo a la creacion de una nacion mas prospera es la eduacion a escala masiva en especial de las clases menos favorecidas pues  estas consituyen a la mayoria.
 
-
-
+Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta divulgadores de la ciencia 
 
 # Para su grupo ¿Qué es la divulgación científica:
 
